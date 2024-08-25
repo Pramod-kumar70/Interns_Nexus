@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.navbar_item a{
+    
+    margin-left: 20px;
+    color: rgb(246, 241, 236);
+    
+}
+.step-2{
+    margin-top: 100px;
+
+}
+.card_font{
+    font-size: 11px;
+}
+
+.Activity{
+    height: 100px;
+    margin-left: 10px;
+}
+.Activity span{
+    font-size: 25px;
+    color: white;
+}
+.activity-content{
+    background-color: rgba(91, 91, 187, 0.584);
+}
+ 
+@media only screen and (max-width:700px){
+     
+        .course-box img{
+            width: 200px;
+        }
+        
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+/* 
+@media only screen and (max-width: 700px) {
+    .img-Cource{
+        height: 300px;
+        width: 100px;
+    }
+} */
